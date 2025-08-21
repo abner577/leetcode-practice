@@ -1,4 +1,4 @@
-package Review2.Graphs;
+package Review2.Graphs.Prac;
 
 import java.util.ArrayList;
 import java.util.List;
