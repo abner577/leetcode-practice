@@ -20,6 +20,8 @@ public class FindIfPathExistsInGraph {
          graph.get(u).add(v);
          graph.get(v).add(u);
      }
+
+        List<String> list = new ArrayList<>();
      return traversal(graph, visited, source, destination);
     }
 
